@@ -1,6 +1,5 @@
-![img](https://github.com/atasuzer/atasuzer/assets/71615674/5ddf7fc6-0d3d-43d9-acb9-0a512147bdbd)
+![img](https://github.com/atasuzer/atasuzer/assets/71615674/7db1045f-3ca2-4dcb-97e6-8b7d836a484e)
 
-### Hi there 👋
 
 I'm Atahan Süzer, a passionate software developer & mechanical engineer dedicated to turning ideas into elegant solutions. With a love for coding and creating meaningful projects, I thrive on making a positive impact through my work.
 
